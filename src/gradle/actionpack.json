@@ -1,0 +1,16 @@
+{
+   "ActionPack" : {
+      "name" : "gradle",
+      "category" : "Build",
+      "description" : "Action for gradle build management tool, v2.2.1  \"Run gradle task\"",
+      "author" : "Scott Schmitz",
+      "dependencies" : "",
+      "platform" : "",
+      "version" : "1.0 ",
+      "license" : "",
+      "imageLocation" : "http://localhost:8080/RDKServer/workingDirectory/ActionPacks/gradle/gradle.PNG",
+      "lastModified" : "2014-12-31T13:42:44.703-05:00",
+      "tags" : [ ],
+      "packageName" : "gradle"
+   }
+}
